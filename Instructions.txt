@@ -1,0 +1,5 @@
+Hello there! In case you haven't already, extract the folder "fbi.html-release" to somewhere on your computer, 
+then double click on the file "index.html" to go onto the website. Also, don't touch anything else from this folder, 
+as that might break some stuff on the website. Other than that, have fun! :)
+
+-Armel
